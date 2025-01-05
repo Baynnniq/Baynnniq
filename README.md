@@ -2,20 +2,20 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies or Skills You're Learning]**
-- 👯 I’m looking to collaborate on **[Projects or Areas of Interest]**
-- 🤔 I’m looking for help with **[Topics or Issues You Need Help With]**
-- 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: **[Your Contact Information]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔭 I’m currently working on **Programmer**
+- 🌱 I’m currently learning **python && Nodejs**
+- 👯 I’m looking to collaborate on **Nothing**
+- 🤔 I’m looking for help with **Community**
+- 💬 Ask me about **VPS/RDP OR CODE**
+- 📫 How to reach me: **https://iteam075r.ct.ws/forums**
+- ⚡ Fun fact: **Nothing**
 
 ## Skills and Technologies
 
-- **Languages:** [Programming Languages You Know]
-- **Frameworks:** [Frameworks You Use]
-- **Tools:** [Development Tools You Use]
-- **Other:** [Other Relevant Skills or Technologies]
+- **Languages:** python,nodejs,c#
+- **Frameworks:** Not yet 
+- **Tools:** Vscode And many more++
+- **Other:** in case of Ai i like it
 
 ## GitHub Stats
 
@@ -26,15 +26,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baynnniq&layout=compact&theme=radical)
 
 ## Projects
+https://iteam075r.ct.ws/projects
 
 ### [Project 1]
-Description of project 1.
+waiting
 
 ### [Project 2]
-Description of project 2.
+not started yet
 
 ### [Project 3]
-Description of project 3.
+not started yet 
 
 ## Connect with Me
 
