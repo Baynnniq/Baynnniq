@@ -39,6 +39,6 @@ not started yet
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/baynnniq)
+- [Twitter](https://twitter.com/baynnniq)
+- [Personal Website](https://iceogtps.free.nf)
